@@ -12,6 +12,7 @@
           "/ebm-resources/public/help-center/client/index.html*",
           "/ebm-resources/public/auth-app-meetings/client/index.html*",
           "/ebm-resources/public/business-credit-card-app/client/index.html*",
+          "/ebm-resources/public/presignon/client/index.html*",
           "/VA*",
           "NOT /ebm-resources/public/secure-key/*"
         ]
@@ -28,6 +29,7 @@
           "/ebm-resources/public/auth-app-meetings/client/index.html*",
           "/ebm-resources/public/business-credit-card-app/client/index.html*",
           "/cibc/auth/oauth/v2/authorize/",
+          "/ebm-resources/public/presignon/client/index.html*",
           "/VA*",
           "NOT /ebm-resources/public/secure-key/*"
         ]
