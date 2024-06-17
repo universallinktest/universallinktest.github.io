@@ -10,9 +10,9 @@
           "/ebm-resources/online-banking/client/index.html*",
           "/ebm-resources/public/auth-app-parkland/client/index.html*",
           "/ebm-resources/public/help-center/client/index.html*",
-          "/ebm-resources/public/auth-app-meetings/client/index.html*",
           "/ebm-resources/public/business-credit-card-app/client/index.html*",
           "/ebm-resources/public/service-requests/client/index.html*",
+          "/ebm-resources/public/presignon/client/index.html*",
           "/VA*",
           "NOT /ebm-resources/public/secure-key/*"
         ]
@@ -26,9 +26,9 @@
           "/ebm-resources/online-banking/client/index.html*",
           "/ebm-resources/public/auth-app-parkland/client/index.html*",
           "/ebm-resources/public/help-center/client/index.html*",
-          "/ebm-resources/public/auth-app-meetings/client/index.html*",
           "/ebm-resources/public/business-credit-card-app/client/index.html*",
           "/ebm-resources/public/service-requests/client/index.html*",
+          "/ebm-resources/public/presignon/client/index.html*",
           "/VA*",
           "NOT /ebm-resources/public/secure-key/*"
         ]
