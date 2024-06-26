@@ -1,0 +1,15 @@
+[
+    {
+        "target": {
+            "package_name": "com.cibc.android.mobi",
+            "sha256_cert_fingerprints": [
+                "2F:6C:AE:A9:05:BD:1E:46:FD:A4:55:76:8E:53:94:62:DE:2A:B8:1B:74:53:84:0A:E2:23:09:BE:A9:98:C1:82",
+                "E8:24:10:DD:AB:80:4B:90:D6:56:5D:66:F7:5F:6E:1D:87:0E:26:2D:A5:74:1B:EF:F7:3A:40:7C:2F:2D:CD:8D"
+            ],
+            "namespace": "android_app"
+        },
+        "relation": [
+            "delegate_permission/common.handle_all_urls"
+        ]
+    }
+]
