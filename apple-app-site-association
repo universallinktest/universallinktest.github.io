@@ -20,6 +20,7 @@
       {
         "appID": "L8NJVP5KD6.com.cibc.enterprise.CIBC",
         "paths": [
+          "NOT /ebm-resources/online-banking/client/index.html#/auth/sso*",
           "/ebm-resources/public/banking/cibc/client/web/index.html*",
           "/ebm-resources/public/digital-cart/client/index.html*",
           "/ebm-resources/public/cibc-referral-app/client/index.html*",
@@ -30,8 +31,7 @@
           "/ebm-resources/public/service-requests/client/index.html*",
           "/ebm-resources/public/presignon/client/index.html*",
           "/VA*",
-          "NOT /ebm-resources/public/secure-key/*",
-          "NOT /ebm-resources/online-banking/client/index.html#/auth/sso*"
+          "NOT /ebm-resources/public/secure-key/*"
         ]
       },
       {
