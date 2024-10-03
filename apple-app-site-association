@@ -31,7 +31,7 @@
           "/ebm-resources/public/service-requests/client/index.html*",
           "/ebm-resources/public/presignon/client/index.html*",
           "/VA*",
-          "NOT /ebm-resources/public/secure-key/*"
+          "NOT /ebm-resources/public/secure-key/*",
           "NOT */auth/sso*"
         ]
       },
