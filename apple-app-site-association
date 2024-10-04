@@ -19,6 +19,9 @@
       },
       {
         "appID": "L8NJVP5KD6.com.cibc.enterprise.CIBC",
+        "appIDs": [
+          "L8NJVP5KD6.com.cibc.enterprise.CIBC"
+        ],
         "components": [
             {
                   "#": "auth/sso",
@@ -37,7 +40,7 @@
           "/ebm-resources/public/service-requests/client/index.html*",
           "/ebm-resources/public/presignon/client/index.html*",
           "/VA*",
-          "NOT /ebm-resources/public/secure-key/*",
+          "NOT /ebm-resources/public/secure-key/*"
         ]
       },
       {
