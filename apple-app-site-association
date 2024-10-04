@@ -9,12 +9,9 @@
         ],
         "components": [
             {
-                  "/": "/*",
+                  "/": "/ebm-resources/*",
                  "comment": "matches any url"
             }
-        ],
-        "paths": [
-          "*"
         ]
       }
     ]
