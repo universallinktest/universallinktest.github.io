@@ -3,7 +3,8 @@
     "details": [
       {
         "appIDs": [
-          "L8NJVP5KD6.com.cibc.enterprise.CIBC"
+          "L8NJVP5KD6.com.cibc.enterprise.CIBC",
+          "6S27LX4PA8.com.CIBC.mobilebanking"
         ],
         "components": [
             {
