@@ -19,6 +19,13 @@
       },
       {
         "appID": "L8NJVP5KD6.com.cibc.enterprise.CIBC",
+        "components": [
+            {
+                  "#": "auth/sso",
+                  "exclude": true,
+                  "comment": "Matches any URL with a fragment that equals auth/sso and instructs the system not to open it as a universal link."
+            }
+        ],
         "paths": [
           "/ebm-resources/public/banking/cibc/client/web/index.html*",
           "/ebm-resources/public/digital-cart/client/index.html*",
@@ -31,7 +38,6 @@
           "/ebm-resources/public/presignon/client/index.html*",
           "/VA*",
           "NOT /ebm-resources/public/secure-key/*",
-          "NOT /ebm-resources/online-banking/client/index.html#/auth/sso*"
         ]
       },
       {
