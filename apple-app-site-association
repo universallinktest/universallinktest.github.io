@@ -7,11 +7,6 @@
         ],
         "components": [
             {
-                  "#": "auth/sso",
-                  "exclude": true,
-                  "comment": "Matches any URL with a fragment that equals auth/sso and instructs the system not to open it as a universal link."
-            },
-            {
                   "/": "/ebm-resources/*"
             },
             {
