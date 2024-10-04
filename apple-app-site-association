@@ -27,20 +27,10 @@
                   "#": "auth/sso",
                   "exclude": true,
                   "comment": "Matches any URL with a fragment that equals auth/sso and instructs the system not to open it as a universal link."
+            },
+            {
+                  "/": "/ebm-resources/*"
             }
-        ],
-        "paths": [
-          "/ebm-resources/public/banking/cibc/client/web/index.html*",
-          "/ebm-resources/public/digital-cart/client/index.html*",
-          "/ebm-resources/public/cibc-referral-app/client/index.html*",
-          "/ebm-resources/online-banking/client/index.html*",
-          "/ebm-resources/public/auth-app-parkland/client/index.html*",
-          "/ebm-resources/public/help-center/client/index.html*",
-          "/ebm-resources/public/business-credit-card-app/client/index.html*",
-          "/ebm-resources/public/service-requests/client/index.html*",
-          "/ebm-resources/public/presignon/client/index.html*",
-          "/VA*",
-          "NOT /ebm-resources/public/secure-key/*"
         ]
       },
       {
