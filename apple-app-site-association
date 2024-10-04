@@ -13,6 +13,9 @@
             },
             {
                   "/": "/ebm-resources/*"
+            },
+            {
+                  "/": "/ebm-resources"
             }
         ]
       }
