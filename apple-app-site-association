@@ -1,5 +1,6 @@
 {
   "applinks": {
+    "apps": [],
     "details": [
       {
         "appIDs": [
@@ -12,7 +13,6 @@
                  "comment": "matches any url"
             }
         ],
-        "appID": "L8NJVP5KD6.com.cibc.enterprise.CIBC",
         "paths": [
           "*"
         ]
