@@ -7,10 +7,8 @@
         ],
         "components": [
             {
-                  "/": "/ebm-resources/*"
-            },
-            {
-                  "/": "/ebm-resources"
+                  "/": "/ebm-resources/*",
+                 "comment": "matches any ebm-resources url"
             }
         ]
       }
