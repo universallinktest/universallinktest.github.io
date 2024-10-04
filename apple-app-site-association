@@ -8,10 +8,19 @@
           "6S27LX4PA8.com.CIBC.mobilebanking"
         ],
         "components": [
-            {
-                  "/": "/ebm-resources/*",
-                 "comment": "matches any url"
-            }
+               {
+                  "#": "no_universal_links",
+                  "exclude": true,
+                  "comment": "Matches any URL with a fragment that equals no_universal_links and instructs the system not to open it as a universal link."
+               },
+               {
+                  "/": "/ebm-resources/public/banking/cibc/client/web/index.html*",
+                  "comment": "matches any url"
+               },
+               {
+                  "/": "/ebm-resources/online-banking/client/index.html*",
+                  "comment": "matches any url"
+               }
         ]
       }
     ]
