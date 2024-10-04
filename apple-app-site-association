@@ -57,6 +57,10 @@
                     {
                         "/": "/ebm-resources/public/secure-key/*",
                         "exclude": true
+                    },
+                    {
+                        "/": "/ebm-resources/online-banking/offers/client/index.html*",
+                        "comment": "matches any url"
                     }
                 ]
             },
