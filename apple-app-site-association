@@ -27,7 +27,7 @@
           "/ebm-resources/online-banking/client/index.html*#auth/signon*",
           "/ebm-resources/online-banking/client/index.html*#auth/emt-receive*",
           "/ebm-resources/online-banking/client/index.html*#auth/emt-fulfill-request*",
-          "/ebm-resources/online-banking/client/index.html*#auth/register/card-info*",
+          "/ebm-resources/online-banking/client/index.html*#auth/register/card-info",
           "/ebm-resources/public/auth-app-parkland/client/index.html*",
           "/ebm-resources/public/help-center/client/index.html*",
           "/ebm-resources/public/business-credit-card-app/client/index.html*",
