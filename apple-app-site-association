@@ -24,14 +24,18 @@
           "/ebm-resources/public/banking/cibc/client/web/index.html*",
           "/ebm-resources/public/digital-cart/client/index.html*",
           "/ebm-resources/public/cibc-referral-app/client/index.html*",
-          "/ebm-resources/online-banking/client/index.html*",
+          "/ebm-resources/online-banking/client/index.html*#auth/signon*",
+          "/ebm-resources/online-banking/client/index.html*#auth/emt-receive*",
+          "/ebm-resources/online-banking/client/index.html*#auth/emt-fulfill-request*",
+          "/ebm-resources/online-banking/client/index.html*#auth/register/card-info*",
           "/ebm-resources/public/auth-app-parkland/client/index.html*",
           "/ebm-resources/public/help-center/client/index.html*",
           "/ebm-resources/public/business-credit-card-app/client/index.html*",
           "/ebm-resources/public/service-requests/client/index.html*",
           "/ebm-resources/public/presignon/client/index.html*",
           "/VA*",
-          "NOT /ebm-resources/public/secure-key/*"
+          "NOT /ebm-resources/public/secure-key/*",
+          "NOT /ebm-resources/online-banking/client/index.html#/auth/sso*"
         ]
       },
       {
