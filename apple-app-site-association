@@ -15,11 +15,6 @@
                         "comment": "Matches any URL with a fragment that equals no_universal_links and instructs the system not to open it as a universal link."
                     },
                     {
-                        "/": "/ebm-resources/online-banking/client/index.html*",
-                        "?": { "siteId": "EXPEDIA" },
-                        "exclude": true    
-                    },
-                    {
                         "/": "/ebm-resources/public/banking/cibc/client/web/index.html*",
                         "comment": "matches any url"
                     },
