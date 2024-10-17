@@ -61,7 +61,11 @@
                     {
                         "/": "/ebm-resources/online-banking/offers/client/index.html*",
                         "comment": "matches any url"
-                    }
+                    },
+                    {
+                        "/": "/ebm-resources/online-banking/preference-centre/client/index.html*",
+                        "comment": "matches any url"
+                     }
                 ]
             },
             {
