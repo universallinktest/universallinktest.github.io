@@ -51,6 +51,10 @@
                         "comment": "matches any url"
                     },
                     {
+                        "/": "/ebm-resources/manage-my-card/client/index.html*",
+                        "comment": "matches any url"
+                    },
+                    {
                         "/": "/VA*",
                         "comment": "matches any url"
                     },
