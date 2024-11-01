@@ -69,7 +69,11 @@
                     {
                         "/": "/ebm-resources/online-banking/preference-centre/client/index.html*",
                         "comment": "matches any url"
-                     }
+                    },
+                    {
+                        "/": "/ebm-resources/public/void-cheque/client/index.html*",
+                        "comment": "matches any url"
+                    }
                 ]
             },
             {
