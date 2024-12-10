@@ -89,6 +89,8 @@
                     "/ebm-resources/public/service-requests/simplii/more-services/client/index.html*",
                     "/ebm-resources/public/simplii/online-banking/client/index.html*",
                     "/ebm-resources/public/service-requests/simplii/client/index.html*",
+                    "/ebm-resources/public/simplii/online-banking/transfers/client/index.html*",
+                    "/ebm-resources/public/simplii/online-banking/accounts/client/index.html*",
                     "NOT /ebm-resources/public/secure-key/"
                 ]
             },
@@ -105,6 +107,8 @@
                     "/ebm-resources/public/service-requests/simplii/more-services/client/index.html*",
                     "/ebm-resources/public/simplii/online-banking/client/index.html*",
                     "/ebm-resources/public/service-requests/simplii/client/index.html*",
+                    "/ebm-resources/public/simplii/online-banking/transfers/client/index.html*",
+                    "/ebm-resources/public/simplii/online-banking/accounts/client/index.html*",
                     "NOT /ebm-resources/public/secure-key/*"
                 ]
             }
