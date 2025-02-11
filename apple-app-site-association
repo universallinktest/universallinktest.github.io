@@ -73,6 +73,10 @@
                     {
                         "/": "/ebm-resources/public/void-cheque/client/index.html*",
                         "comment": "matches any url"
+                    },
+                    {
+                        "/": "/ebm-resources/public/live-chat-wrapper-app/client/index.html#/sso*",
+                        "comment": "matches any url"
                     }
                 ]
             },
