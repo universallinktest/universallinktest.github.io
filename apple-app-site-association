@@ -75,11 +75,27 @@
                         "comment": "matches any url"
                     },
                     {
-                        "/": "/ebm-resources/public/live-chat-wrapper-app/client/index.html#/sso*",
+                        "/": "/ebm-resources/public/cibc-auth-apps/ie-dco/postsignon/client/index.html*",
                         "comment": "matches any url"
                     },
                     {
-                        "/": "/ebm-resources/public/cibc-auth-apps/ie-dco/postsignon/client/index.html*",
+                        "/": "/ebm-resources/public/digital-cart/deposit-account/client/index.html*",
+                        "comment": "matches any url"
+                    },
+                    {
+                        "/": "/ebm-resources/public/digital-cart/client/credit-card.html*",
+                        "comment": "matches any url"
+                    },
+                    {
+                        "/": "/ebm-resources/public/digital-cart/smart-plus-bundle/client/index.html*",
+                        "comment": "matches any url"
+                    },
+                    {
+                        "/": "/ebm-resources/public/digital-cart/client/smart-youth.html*",
+                        "comment": "matches any url"
+                    },
+                    {
+                        "/": "/ebm-resources/public/digital-cart/client/credit-targeted-offers.html*",
                         "comment": "matches any url"
                     }
                 ]
