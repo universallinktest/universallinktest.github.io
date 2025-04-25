@@ -95,7 +95,7 @@
                         "comment": "matches any url"
                     },
                     {
-                        "/": "/ebm-resources/public/digital-cart/client/credit-targeted-offers.html*",
+                        "/": "/ebm-resources/public/digital-cart/cross-sell/client/index.html*",
                         "comment": "matches any url"
                     }
                 ]
