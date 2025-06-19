@@ -61,6 +61,42 @@
                         "/": "/ebm-resources/online-banking/preference-centre/client/index.html*"
                     }
                 ]
+            },
+{
+                "appID": "45GMRZ4CS5.com.cibc.mobilepcf",
+                "paths": [
+                    "/ebm-resources/public/client/web/index.html*",
+                    "/ebm-resources/public/product-applications/simplii/credit-card/client/index.html*",
+                    "/ebm-resources/public/product-applications/simplii/mobile-app/client/index.html*",
+                    "/ebm-resources/public/product-applications/simplii/remote-account-open/client/index.html*",
+                    "/ebm-resources/public/simplii/multicurrency-accounts-app/client/index.html*",
+                    "/ebm-resources/public/simplii/direct-to-consumer-app/client/index.html*",
+                    "/ebm-resources/public/product-selector/simplii/client/index.html*",
+                    "/ebm-resources/public/service-requests/simplii/more-services/client/index.html*",
+                    "/ebm-resources/public/simplii/online-banking/client/index.html*",
+                    "/ebm-resources/public/simplii/online-banking/transfers/client/index.html*",
+                    "/ebm-resources/public/simplii/digital-cart/new/client/index.html*",
+                    "/ebm-resources/public/simplii/digital-cart/existing/client/index.html*",
+                    "NOT /ebm-resources/public/secure-key/"
+                ]
+            },
+            {
+                "appID": "L8NJVP5KD6.com.cibc.enterprise.PCF",
+                "paths": [
+                    "/ebm-resources/public/client/web/index.html",
+                    "/ebm-resources/public/product-applications/simplii/credit-card/client/index.html*",
+                    "/ebm-resources/public/product-applications/simplii/mobile-app/client/index.html*",
+                    "/ebm-resources/public/product-applications/simplii/remote-account-open/client/index.html*",
+                    "/ebm-resources/public/simplii/multicurrency-accounts-app/client/index.html*",
+                    "/ebm-resources/public/simplii/direct-to-consumer-app/client/index.html*",
+                    "/ebm-resources/public/product-selector/simplii/client/index.html*",
+                    "/ebm-resources/public/service-requests/simplii/more-services/client/index.html*",
+                    "/ebm-resources/public/simplii/online-banking/client/index.html*",
+                    "/ebm-resources/public/simplii/online-banking/transfers/client/index.html*",
+                    "/ebm-resources/public/simplii/digital-cart/new/client/index.html*",
+                    "/ebm-resources/public/simplii/digital-cart/existing/client/index.html*",
+                    "NOT /ebm-resources/public/secure-key/*"
+                ]
             }
         ]
     }
