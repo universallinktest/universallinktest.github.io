@@ -12,131 +12,54 @@
                         "/": "/ebm-resources/online-banking/client/index.html*",
                         "#": "/auth/sso*",
                         "exclude": true,
-                        "comment": "Matches any URL with a fragment that equals no_universal_links and instructs the system not to open it as a universal link."
+                        "comment": "Matches any URL with a fragment that equals /auth/sso* and instructs the system not to open it as a universal link."
                     },
                     {
-                        "/": "/ebm-resources/public/banking/cibc/client/web/index.html*",
-                        "comment": "matches any url"
+                        "/": "/ebm-resources/public/banking/cibc/client/web/index.html*"
                     },
                     {
-                        "/": "/ebm-resources/public/digital-cart/client/index.html*",
-                        "comment": "matches any url"
+                        "/": "/ebm-resources/public/digital-cart/client/index.html*"
                     },
                     {
-                        "/": "/ebm-resources/public/cibc-referral-app/client/index.html*",
-                        "comment": "matches any url"
+                        "/": "/ebm-resources/public/cibc-referral-app/client/index.html*"
                     },
                     {
-                        "/": "/ebm-resources/online-banking/client/index.html*",
-                        "comment": "matches any url"
+                        "/": "/ebm-resources/online-banking/client/index.html*"
                     },
                     {
-                        "/": "/ebm-resources/public/auth-app-parkland/client/index.html*",
-                        "comment": "matches any url"
+                        "/": "/ebm-resources/public/auth-app-parkland/client/index.html*"
                     },
                     {
-                        "/": "/ebm-resources/public/help-center/client/index.html*",
-                        "comment": "matches any url"
+                        "/": "/ebm-resources/public/help-center/client/index.html*"
                     },
                     {
-                        "/": "/ebm-resources/public/business-credit-card-app/client/index.html*",
-                        "comment": "matches any url"
+                        "/": "/ebm-resources/public/business-credit-card-app/client/index.html*"
                     },
                     {
-                        "/": "/ebm-resources/public/service-requests/client/index.html*",
-                        "comment": "matches any url"
+                        "/": "/ebm-resources/public/service-requests/client/index.html*"
                     },
                     {
-                        "/": "/ebm-resources/public/presignon/client/index.html*",
-                        "comment": "matches any url"
+                        "/": "/ebm-resources/public/presignon/client/index.html*"
                     },
                     {
-                        "/": "/ebm-resources/manage-my-card/client/index.html*",
-                        "comment": "matches any url"
+                        "/": "/ebm-resources/manage-my-card/client/index.html*"
                     },
                     {
-                        "/": "/VA*",
-                        "comment": "matches any url"
+                        "/": "/VA*"
                     },
                     {
                         "/": "/ebm-resources/public/secure-key/*",
                         "exclude": true
                     },
                     {
-                        "/": "/ebm-resources/online-banking/offers/client/index.html*",
-                        "comment": "matches any url"
-                    },
-                    {
-                        "/": "/ebm-resources/online-banking/preference-centre/client/index.html*",
-                        "comment": "matches any url"
-                    },
-                    {
-                        "/": "/ebm-resources/public/void-cheque/client/index.html*",
-                        "comment": "matches any url"
-                    },
-                    {
-                        "/": "/ebm-resources/public/cibc-auth-apps/ie-dco/postsignon/client/index.html*",
-                        "comment": "matches any url"
-                    },
-                    {
-                        "/": "/ebm-resources/public/digital-cart/deposit-account/client/index.html*",
-                        "comment": "matches any url"
-                    },
-                    {
-                        "/": "/ebm-resources/public/digital-cart/client/credit-card.html*",
-                        "comment": "matches any url"
-                    },
-                    {
-                        "/": "/ebm-resources/public/digital-cart/smart-plus-bundle/client/index.html*",
-                        "comment": "matches any url"
-                    },
-                    {
-                        "/": "/ebm-resources/public/digital-cart/client/smart-youth.html*",
-                        "comment": "matches any url"
+                        "/": "/ebm-resources/online-banking/offers/client/index.html*"
                     },
                     {
                         "/": "/ebm-resources/public/void-cheque/client/index.html*"
                     },
                     {
-                        "/": "/ebm-resources/public/digital-cart/cross-sell/client/index.html*",
-                        "comment": "matches any url"
+                        "/": "/ebm-resources/online-banking/preference-centre/client/index.html*"
                     }
-                ]
-            },
-            {
-                "appID": "45GMRZ4CS5.com.cibc.mobilepcf",
-                "paths": [
-                    "/ebm-resources/public/client/web/index.html*",
-                    "/ebm-resources/public/product-applications/simplii/credit-card/client/index.html*",
-                    "/ebm-resources/public/product-applications/simplii/mobile-app/client/index.html*",
-                    "/ebm-resources/public/product-applications/simplii/remote-account-open/client/index.html*",
-                    "/ebm-resources/public/simplii/multicurrency-accounts-app/client/index.html*",
-                    "/ebm-resources/public/simplii/direct-to-consumer-app/client/index.html*",
-                    "/ebm-resources/public/product-selector/simplii/client/index.html*",
-                    "/ebm-resources/public/service-requests/simplii/more-services/client/index.html*",
-                    "/ebm-resources/public/simplii/online-banking/client/index.html*",
-                    "/ebm-resources/public/service-requests/simplii/client/index.html*",
-                    "/ebm-resources/public/simplii/online-banking/transfers/client/index.html*",
-                    "/ebm-resources/public/simplii/online-banking/accounts/client/index.html*",
-                    "NOT /ebm-resources/public/secure-key/"
-                ]
-            },
-            {
-                "appID": "L8NJVP5KD6.com.cibc.enterprise.PCF",
-                "paths": [
-                    "/ebm-resources/public/client/web/index.html",
-                    "/ebm-resources/public/product-applications/simplii/credit-card/client/index.html*",
-                    "/ebm-resources/public/product-applications/simplii/mobile-app/client/index.html*",
-                    "/ebm-resources/public/product-applications/simplii/remote-account-open/client/index.html*",
-                    "/ebm-resources/public/simplii/multicurrency-accounts-app/client/index.html*",
-                    "/ebm-resources/public/simplii/direct-to-consumer-app/client/index.html*",
-                    "/ebm-resources/public/product-selector/simplii/client/index.html*",
-                    "/ebm-resources/public/service-requests/simplii/more-services/client/index.html*",
-                    "/ebm-resources/public/simplii/online-banking/client/index.html*",
-                    "/ebm-resources/public/service-requests/simplii/client/index.html*",
-                    "/ebm-resources/public/simplii/online-banking/transfers/client/index.html*",
-                    "/ebm-resources/public/simplii/online-banking/accounts/client/index.html*",
-                    "NOT /ebm-resources/public/secure-key/*"
                 ]
             }
         ]
