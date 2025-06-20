@@ -55,7 +55,7 @@
                         "/": "/ebm-resources/online-banking/offers/client/index.html*"
                     },
                     {
-                        "/": "/ebm-resources/public/void-cheque/client/index.html*"
+                        "/": "/ebm-resources/public/void-cheque/client/index.html#*"
                     },
                     {
                         "/": "/ebm-resources/online-banking/preference-centre/client/index.html*"
