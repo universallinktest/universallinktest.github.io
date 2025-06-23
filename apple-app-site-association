@@ -59,6 +59,21 @@
                     },
                     {
                         "/": "/ebm-resources/online-banking/preference-centre/client/index.html*"
+                    },
+                    {
+                        "/": "/ebm-resources/public/digital-cart/deposit-account/client/index.html*"
+                    },
+                    {
+                        "/": "/ebm-resources/public/digital-cart/client/credit-card.html*"
+                    },
+                    {
+                        "/": "/ebm-resources/public/digital-cart/smart-plus-bundle/client/index.html*"
+                    },
+                    {
+                        "/": "/ebm-resources/public/digital-cart/client/smart-youth.html*"
+                    },
+                    {
+                        "/": "/ebm-resources/public/digital-cart/cross-sell/client/index.html*"
                     }
                 ]
             },
