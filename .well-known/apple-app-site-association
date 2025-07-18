@@ -74,6 +74,9 @@
                     },
                     {
                         "/": "/ebm-resources/public/digital-cart/cross-sell/client/index.html*"
+                    },
+                    {
+                        "/": "/ebm-resources/public/service-requests/cibc/deposit-account-switch/client/index.html*"
                     }
                 ]
             },
