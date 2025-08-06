@@ -64,6 +64,9 @@
                         "/": "/ebm-resources/online-banking/imperial-service/client/index.html*"
                     },
                     {
+                        "/": "/ebm-resources/public/digital-cart/deposit-account/client/index.html*"
+                    },
+                    {
                         "/": "/ebm-resources/public/digital-cart/client/credit-card.html*"
                     },
                     {
