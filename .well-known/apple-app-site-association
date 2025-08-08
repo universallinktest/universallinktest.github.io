@@ -80,6 +80,9 @@
                     },
                     {
                         "/": "/ebm-resources/public/service-requests/cibc/deposit-account-switch/client/index.html*"
+                    },
+                    {
+                        "/": "/ebm-resources/public/cibc-auth-apps/ie-dco/postsignon/client/index.html*"
                     }
                 ]
             },
