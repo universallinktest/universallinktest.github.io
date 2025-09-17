@@ -30,6 +30,9 @@
                         "/": "/ebm-resources/public/auth-app-parkland/client/index.html*"
                     },
                     {
+                        "/": "/ebm-resources/public/auth-app-meetings/client/index.html*"
+                    },
+                    {
                         "/": "/ebm-resources/public/help-center/client/index.html*"
                     },
                     {
