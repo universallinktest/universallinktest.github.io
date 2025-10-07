@@ -95,7 +95,14 @@
                     },
                     {
                         "/": "/ebm-resources/public/cibc-auth-apps/auto-loan-reverse/postsignon/client/index.html*"
+                    },
+                    {
+                        "/": "/ebm-resources/public/digital-cart/product-selector/client/index.html*"
+                    },
+                    {
+                        "/": "/ebm-resources/public/digital-cart/franchising-bundle/client/index.html*"
                     }
+
                 ]
             },
 {
