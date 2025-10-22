@@ -101,6 +101,9 @@
                     },
                     {
                         "/": "/ebm-resources/public/digital-cart/franchising-bundle/client/index.html*"
+                    },
+                    {
+                        "/": "/ebm-resources/online-banking/accounts/client/index.html*"
                     }
 
                 ]
