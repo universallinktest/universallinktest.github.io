@@ -124,6 +124,7 @@
                     "/ebm-resources/public/simplii/digital-cart/new/client/index.html*",
                     "/ebm-resources/public/simplii/digital-cart/existing/client/index.html*",
                     "/ebm-resources/public/simplii/online-banking/services/client/index.html*",
+                    "/ebm-resources/public/simplii/online-banking/accounts/client/index.html*",
                     "NOT /ebm-resources/public/secure-key/"
                 ]
             },
@@ -143,6 +144,7 @@
                     "/ebm-resources/public/simplii/digital-cart/new/client/index.html*",
                     "/ebm-resources/public/simplii/digital-cart/existing/client/index.html*",
                     "/ebm-resources/public/simplii/online-banking/services/client/index.html*",
+                    "/ebm-resources/public/simplii/online-banking/accounts/client/index.html*",
                     "NOT /ebm-resources/public/secure-key/*"
                 ]
             }
