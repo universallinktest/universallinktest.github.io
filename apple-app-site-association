@@ -108,9 +108,12 @@
 		    {
                         "/": "/ebm-resources/public/cibc-auth-apps/travel/postsignon/client/index.html*"
 		    },
- {
+		    {
                         "/": "/ebm-resources/public/auth-app-meetings/client/index.html*"
-                    }
+                    },
+		    {
+                        "/": "/ebm-resources/online-banking/payments/client/index.html*"
+		    }
                 ]
             },
 {
