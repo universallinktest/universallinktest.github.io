@@ -14,6 +14,9 @@
                         "exclude": true,
                         "comment": "Matches any URL with a fragment that equals /auth/sso* and instructs the system not to open it as a universal link."
                     },
+					{
+                        "/": "/cibc/auth/oauth/v2/authorize/"
+                    },
                     {
                         "/": "/ebm-resources/public/banking/cibc/client/web/index.html*"
                     },
