@@ -92,6 +92,9 @@
                     },
                     {
                         "/": "/ebm-resources/public/service-requests/cibc/auto-pay/client/index.html*"
+                    },
+					{
+                        "/": "/ebm-resources/online-banking/account-selector/client/index.html*"
                     }
                 ]
             },
