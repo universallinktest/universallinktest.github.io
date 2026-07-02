@@ -95,6 +95,9 @@
                     },
 					{
                         "/": "/ebm-resources/online-banking/account-selector/client/index.html*"
+                    },
+					{
+                        "/": "/ebm-resources/online-banking/communication-hub/client/index.html*"
                     }
                 ]
             },
