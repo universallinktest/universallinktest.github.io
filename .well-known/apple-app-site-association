@@ -98,6 +98,9 @@
                     },
 					{
                         "/": "/ebm-resources/online-banking/communication-hub/client/index.html*"
+                    },
+		{
+                        "/": "/ebm-resources/public/product-import/client/index.html*"
                     }
                 ]
             },
